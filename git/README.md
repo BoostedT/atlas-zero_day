@@ -1,1 +1,1 @@
-"Starting to code today, so cool"
+"How to stay up to date in git"
